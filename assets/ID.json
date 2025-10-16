@@ -1,0 +1,18 @@
+{
+    "home": {
+        "title": "Paket untuk kebutuhan internetmu",
+        "input": "Masukkan kota, kabupaten, atau kecamatanmu untuk cari tau kuota yang bisa kamu gunakan",
+        "location": "Lokasi kamu"
+    },
+    "faq": {
+        "title": "Hal-hal yang sering ditanyakan"
+    },
+    "bannerBima": {
+        "title": "Download bima+ app",
+        "content": "Mudah beli & atur semua kebutuhan internet, hiburan, dan gaming kamu di bima+"
+    },
+    "footer": {
+        "download": "Download Aplikasi bima+ sekarang",
+        "contact": "Hubungi kami"
+    }
+}
